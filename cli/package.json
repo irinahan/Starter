@@ -1,0 +1,15 @@
+{
+  "name": "@legion/cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "legion": "bin/legion.js"
+  },
+  "scripts": {
+    "start": "node bin/legion.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}

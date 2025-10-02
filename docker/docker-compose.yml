@@ -1,0 +1,8 @@
+services:
+  server:
+    build: ./server
+    environment:
+      - LEGION_API_KEY=demo-key
+    ports:
+      - "3000:3000"
+    restart: unless-stopped

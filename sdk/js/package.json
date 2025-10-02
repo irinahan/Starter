@@ -1,0 +1,11 @@
+{
+  "name": "@legion/sdk",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp src/index.js dist/index.js",
+    "test": "node -e \"console.log('no tests yet')\""
+  },
+  "dependencies": {}
+}

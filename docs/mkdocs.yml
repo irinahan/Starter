@@ -1,0 +1,12 @@
+site_name: legion.cc Docs
+theme:
+  name: material
+nav:
+  - Quickstart: index.md
+  - API: api.md
+  - Changelog: changelog.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
