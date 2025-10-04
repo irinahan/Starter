@@ -81,3 +81,4 @@ docker compose -f docker/docker-compose.yml up --build
 
 ## ✅ Лицензия
 MIT
+feat: добавил новую страницу профиля
