@@ -18,7 +18,7 @@ export LEGION_API_URL=http://localhost:3000
 export LEGION_API_KEY=demo-key
 ```
 
-## Первый запрос (JS)
+## Первый запрос (JS1)
 ```js
 import { Legion } from '../sdk/js/dist/index.js';
 const client = new Legion(process.env.LEGION_API_URL, process.env.LEGION_API_KEY);

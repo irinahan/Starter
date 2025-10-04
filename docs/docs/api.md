@@ -8,3 +8,4 @@
 - `POST /v1/echo` — отдает обратно присланный JSON
 
 Используй Postman-коллекцию: [`/api/legion.postman_collection.json`](../api/legion.postman_collection.json).
+update
